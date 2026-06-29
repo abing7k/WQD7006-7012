@@ -4,8 +4,6 @@
 
 This repository is an unofficial information hub and public study archive for **WQD 7006 / WQD 7012: Machine Learning for Data Science / Machine Learning Application** in the **Master of Data Science programme at Universiti Malaya (UM)**.
 
-WQD 7006 and WQD 7012 refer to closely related course offerings for the same learning area. The materials here are collected to help students understand past exam formats, question styles, and revision focus areas.
-
 ## Available Papers
 
 Current files:
