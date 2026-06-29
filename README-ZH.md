@@ -4,8 +4,6 @@
 
 这是一个非官方资料站，用于整理和分享 **马来亚大学 Universiti Malaya (UM) Master of Data Science** 课程 **WQD 7006 / WQD 7012: Machine Learning for Data Science / Machine Learning Application** 的历年考试例卷。
 
-WQD 7006 和 WQD 7012 可以理解为同一学习方向下非常接近的课程编号。这里的资料主要用于帮助同学了解往年考试格式、题型风格和复习重点。
-
 ## 当前试卷
 
 目前包含：
